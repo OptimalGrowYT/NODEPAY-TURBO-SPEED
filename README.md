@@ -3,7 +3,7 @@
 <img src="https://github.com/OptimalGrowYT/NOTPIXEL-ADS_WATCHER/blob/main/PNG" alt="توضیح تصویر" width="1280" height="520">
 
 ## BOTH RESIDENTIAL AND ISP PROXIES WORKING BUT ISP PROXIES RECOMENDED
-SUPPORTED FORMATE > http://user:password@IP:port
+SUPPORTED FORMATE > http://user:password@IP:port > [Buy proxy from here : ](https://app.proxies.fo/ref/0dea5a1e-2cf7-b7be-755b-7f8633e3faeb).
 
 [JOIN NODEPAY AIRDROP HERE : ](https://app.nodepay.ai/register?ref=g1MS9G1hzzSKKHl).
 
