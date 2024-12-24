@@ -1,0 +1,4 @@
+http://user:password@IP:port
+
+Both residential and ISP proxies working 
+but keep in mind that ISP give best result
